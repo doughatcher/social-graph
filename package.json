@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@adobe/aio-cli": "^10.2.0",
+    "@adobe/aio-cli-plugin-api-mesh": "^3.7.0"
+  }
+}
